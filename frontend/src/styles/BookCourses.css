@@ -1,0 +1,64 @@
+/* .test1 {
+    background: url("../background.jpeg") repeat-x center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} */
+
+
+.display-courses {
+    text-align: center;
+}
+.selCourses {
+    /* display: flex;
+    margin: 1px;
+    padding: 5px;
+    color:black;
+    text-decoration: none; */
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .course-selected li {
+    display: flex;
+    margin: 1px 1px 1px 30px;
+    padding: 5px;
+    color:black;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+.form-head {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+  }
+  .form-head li{
+    display: flex;
+    margin: 1px;
+    padding: 5px;
+    color:black;
+    text-decoration: none;
+    text-align: center;
+  }
+  .form-head li:last-child {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  .class-summary li {
+    display: flex;
+    margin: 1px;
+    padding: 5px;
+    color:black;
+    text-decoration: none;
+    text-align: center;
+  }
