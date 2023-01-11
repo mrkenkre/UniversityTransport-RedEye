@@ -1,4 +1,4 @@
-This project was a part of my final Web Development group project. I was responsible for the development of the RedEye sub-component which enabled the students to book their ride back to their home from the university.
+This project was a part of my final Web Development group project. I was responsible for the development of the RedEye sub-component which enabled the students to book their ride back to their home from the university. It would store the userid, source, destination and booking time onto MongoDB.
 
 How to start? One-time 
 - npm install in both folders
