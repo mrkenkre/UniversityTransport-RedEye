@@ -1,4 +1,5 @@
-This project was a part of my final Web Development group project. I was responsible for the development of the RedEye sub-component which enabled the students to book their ride back to their home from the university. It would store the userid, source, destination and booking time onto MongoDB.
+This project was a part of my final Web Development group project. This is a Single-Page Application (SPA) using the MERN stack and Redis to revamp a university website, consolidating critical issues and addressing common navigation issues faced by students.
+As a sub-component, RedEye is a potential user-friendly transport management system with Google Map JavaScript API which streamlined transportation, and improved convenience for approximately 90000 students within a 2-mile radius.
 
 How to start? One-time 
 - npm install in both folders
